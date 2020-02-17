@@ -1,0 +1,1 @@
+One function of the operating system is to translate the computer's processes into a graphical interface. It makes using a computer easy to use because of how it organizes everything on the screen.
